@@ -18,7 +18,7 @@
 > Check the operation again (click the button many times). Is the invariant fulfilled or not ?.
 - Para este punto se esta cumpliendo la invariante ya que sincronizamos la variable health
 > Analyzing the simulation operation scheme, could this create a race condition?
-- puede ver la respuesta en ![Answere](https://github.com/FelipeRojas15/ARSW-LAB2/edit/master/ANSWERS.txt)
+- puede ver la respuesta en [Answers](https://github.com/FelipeRojas15/ARSW-LAB2/edit/master/ANSWERS.txt)
 ## Autores
 - **Jose Luis Gomez Camacho**
 - **Brayan Felipe Rojas Bernal**
