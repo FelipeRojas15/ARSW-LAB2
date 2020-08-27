@@ -1,0 +1,8 @@
+Analyzing the simulation operation scheme, could this create a race condition? 
+Implement the functionality, run the simulation and see what problem arises when 
+there are many 'immortals' in it.
+
+En esta situacion puede haber condicion de carrera ya que cuando un immortal tiene la 
+vida en 0 sigue en ejecucion el hilo asociado a ese inmortal. Nuestra solucion fue revisar 
+si el hilo que se ejecuta tiene un immortal vivo, si esta vivo hace la respectiva sincronizacion
+si no continua con el otro.
